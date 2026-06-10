@@ -1,4 +1,4 @@
-# 
+# Nativo AI News Summarizer ferramentas. Com reconhecimento de imagens e tomada de decisão automatizada — otimizado para máximo desempenho.
 
 
 
